@@ -13,7 +13,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Base config
-          user: gloggers99
+          user: schmarta
           template: classic
           base: activity, community, repositories, metadata
           config_padding: 6%
