@@ -1327,8 +1327,8 @@
                 </svg>
             </section>
             <footer>
-                <span>These metrics do not include all private contributions</span>
-                <span>Last updated 11 Aug 2026, 23:10:03 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>These metrics include private contributions</span>
+                <span>Last updated 12 Aug 2026, 01:12:59 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
